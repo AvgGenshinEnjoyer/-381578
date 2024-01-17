@@ -1,0 +1,4 @@
+ignoreThis.txt
+ignoreThisDir/
+*.log
+!negateThisFile.log
